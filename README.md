@@ -12,7 +12,7 @@ Calibration and customization options
 # # # Prerequisites
 Python 3.x
 OpenCV
-Dlib
+Mediapipe
 PyAutoGUI
 
 # # 1- Clone the Repository 
