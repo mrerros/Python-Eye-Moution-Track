@@ -16,7 +16,7 @@ Mediapipe
 PyAutoGUI
 
 ## 1- Clone the Repository 
-git clone https://github.com/mrerros/Python-Eye-Moution-Track.git
+git clone https://github.com/mrerros/Python-Eye-Moution-Track
 cd Python-Eye-Moution-Track
    
 ## 2- Create and Activate a Virtual Environment (optional but recommended)
